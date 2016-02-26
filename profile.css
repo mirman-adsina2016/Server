@@ -3,6 +3,11 @@ body, html
     background-color: #EDEDED !important;
 }
 
+.yo
+{
+  font-family: "Courier New", Courier, monospace;
+}
+
 .intro
 {
     text-align: center;
